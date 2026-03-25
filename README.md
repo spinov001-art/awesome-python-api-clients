@@ -1,6 +1,6 @@
 # Awesome Python API Clients 🐍
 
-> 35+ lightweight Python clients for free APIs. No API keys. No signup. Just `pip install requests`.
+> 40+ lightweight Python clients for free APIs. No API keys. No signup. Just `pip install requests`.
 
 Every client in this collection works with zero configuration. Clone, run, get data.
 
@@ -61,6 +61,9 @@ Every client in this collection works with zero configuration. Clone, run, get d
 | [swapi-python](https://github.com/spinov001-art/swapi-python) | SWAPI | Star Wars universe |
 | [dadjoke-python](https://github.com/spinov001-art/dadjoke-python) | icanhazdadjoke | Dad jokes |
 | [dog-ceo-python](https://github.com/spinov001-art/dog-ceo-python) | Dog CEO | Random dog images |
+| [catfact-python](https://github.com/spinov001-art/catfact-python) | Cat Facts | Cat facts and breeds |
+| [chucknorris-python](https://github.com/spinov001-art/chucknorris-python) | Chuck Norris | Jokes by category |
+| [numbersapi-python](https://github.com/spinov001-art/numbersapi-python) | Numbers API | Number/date facts |
 
 ## Developer Tools
 
