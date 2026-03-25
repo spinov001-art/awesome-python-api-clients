@@ -52,6 +52,7 @@ Every client in this collection works with zero configuration. Clone, run, get d
 | [wikipedia-python](https://github.com/spinov001-art/wikipedia-python) | Wikipedia | Article summaries |
 | [newsapi-python](https://github.com/spinov001-art/newsapi-python) | NewsAPI | News headlines |
 | [openlibrary-python](https://github.com/spinov001-art/openlibrary-python) | Open Library | 20M+ books |
+| [python-reddit-api](https://github.com/spinov001-art/python-reddit-api) | Reddit JSON | Posts, comments, subreddits — no API key |
 
 ## Fun & Entertainment
 
