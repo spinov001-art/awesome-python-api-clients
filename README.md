@@ -81,6 +81,15 @@ Every client in this collection works with zero configuration. Clone, run, get d
 |--------|-----|------|
 | [api-security-scanner](https://github.com/spinov001-art/api-security-scanner) | Multiple | Vulnerability scanning |
 
+## Tutorials — Complete Projects
+
+| Project | APIs Used | Description |
+|---------|-----------|-------------|
+| [build-morning-dashboard](https://github.com/spinov001-art/build-morning-dashboard) | 6 APIs | Weather, crypto, news, ISS, earthquakes in one script |
+| [build-crypto-tracker](https://github.com/spinov001-art/build-crypto-tracker) | CoinGecko | Portfolio tracker with 24h changes and CSV export |
+| [build-book-finder](https://github.com/spinov001-art/build-book-finder) | Open Library | Search 20M+ books from your terminal |
+| [build-earthquake-alert](https://github.com/spinov001-art/build-earthquake-alert) | USGS | Monitor seismic activity near any location |
+
 ## How to Use Any Client
 
 ```bash
