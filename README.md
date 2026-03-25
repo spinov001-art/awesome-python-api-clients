@@ -49,6 +49,7 @@ Every client in this collection works with zero configuration. Clone, run, get d
 | Client | API | Data |
 |--------|-----|------|
 | [hacker-news-python](https://github.com/spinov001-art/hacker-news-python) | HN Firebase | Stories, comments |
+| [python-hn-api](https://github.com/spinov001-art/python-hn-api) | HN Firebase + Algolia | Stories, comments, search, users |
 | [wikipedia-python](https://github.com/spinov001-art/wikipedia-python) | Wikipedia | Article summaries |
 | [newsapi-python](https://github.com/spinov001-art/newsapi-python) | NewsAPI | News headlines |
 | [openlibrary-python](https://github.com/spinov001-art/openlibrary-python) | Open Library | 20M+ books |
