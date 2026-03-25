@@ -67,6 +67,7 @@ Every client in this collection works with zero configuration. Clone, run, get d
 | Client | API | Data |
 |--------|-----|------|
 | [github-api-python](https://github.com/spinov001-art/github-api-python) | GitHub | Users, repos, search |
+| [jsonplaceholder-python](https://github.com/spinov001-art/jsonplaceholder-python) | JSONPlaceholder | Fake REST API for testing |
 | [python-data-fetcher](https://github.com/spinov001-art/python-data-fetcher) | Multiple | Multi-source data |
 | [dns-lookup-toolkit](https://github.com/spinov001-art/dns-lookup-toolkit) | DNS | DNS record lookup |
 | [nlp-api-toolkit](https://github.com/spinov001-art/nlp-api-toolkit) | MyMemory | Translation + NLP |
