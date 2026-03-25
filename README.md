@@ -124,6 +124,10 @@ Found a free API that should be here? Open an issue or PR.
 
 - [python-morning-briefing](https://github.com/spinov001-art/python-morning-briefing) — Weather + news + stocks + GitHub in one script (all free APIs)
 
+## Related
+
+- [Awesome Web Scraping 2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 130+ tools for when APIs aren't enough
+
 ## License
 
 MIT — All clients in this collection are MIT licensed.
