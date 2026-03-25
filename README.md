@@ -76,6 +76,10 @@ Every client in this collection works with zero configuration. Clone, run, get d
 | [python-data-fetcher](https://github.com/spinov001-art/python-data-fetcher) | Multiple | Multi-source data |
 | [dns-lookup-toolkit](https://github.com/spinov001-art/dns-lookup-toolkit) | DNS | DNS record lookup |
 | [nlp-api-toolkit](https://github.com/spinov001-art/nlp-api-toolkit) | MyMemory | Translation + NLP |
+| [python-github-api](https://github.com/spinov001-art/python-github-api) | GitHub REST | Repos, users, trending, commits |
+| [python-email-validator](https://github.com/spinov001-art/python-email-validator) | DNS/Socket | Email format, MX, disposable check |
+| [python-domain-checker](https://github.com/spinov001-art/python-domain-checker) | WHOIS | Domain availability, 10 TLDs |
+
 
 ## Security
 
