@@ -120,6 +120,10 @@ Every client follows the same pattern:
 
 Found a free API that should be here? Open an issue or PR.
 
+## Multi-API Projects
+
+- [python-morning-briefing](https://github.com/spinov001-art/python-morning-briefing) — Weather + news + stocks + GitHub in one script (all free APIs)
+
 ## License
 
 MIT — All clients in this collection are MIT licensed.
