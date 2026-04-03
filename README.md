@@ -128,6 +128,14 @@ Found a free API that should be here? Open an issue or PR.
 
 - [Awesome Web Scraping 2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — 130+ tools for when APIs aren't enough
 
+## Need Custom Data Extraction?
+
+I build production-grade scrapers and API integrations for businesses. Whether you need data from a free API or a complex website — I can deliver structured data in JSON/CSV within 48 hours.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data need, get a free quote.
+
+🔧 **[Browse 78+ ready-made scrapers →](https://apify.com/knotless_cadence)** — Reddit, Amazon, Google, YouTube, and more.
+
 ## License
 
 MIT — All clients in this collection are MIT licensed.
